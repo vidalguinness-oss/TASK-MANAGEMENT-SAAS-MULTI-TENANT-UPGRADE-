@@ -1,0 +1,2 @@
+#Start command
+gunicorn app:app
